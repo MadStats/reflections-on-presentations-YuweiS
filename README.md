@@ -48,5 +48,39 @@ What were aspects of the presentations for which you had concerns or questions:1
 2.I'm confused by the model they used 3.How do they divide the whole city into 169 blocks?Why equal size square blocks?
 
 
+Title of presentation:Game
+
+What were aspects of the presentation that you liked:Use many kinds of methods and compare them
+
+What were aspects of the presentations for which you had concerns or questions:
+
+
+Title of presentation:H1B
+
+What were aspects of the presentation that you liked:nice clustering plots and maps
+
+What were aspects of the presentations for which you had concerns or questions:
+
+
+Title of presentation:Traffic 
+
+What were aspects of the presentation that you liked:
+
+What were aspects of the presentations for which you had concerns or questions:The results are kind of obvious,and too many residual plots in the presentation
+
+
+Title of presentation:NBA
+
+What were aspects of the presentation that you liked:interesting
+
+What were aspects of the presentations for which you had concerns or questions:some plots are different to understand.May try different models
+
+
+
+Title of presentation:Terrorist
+
+What were aspects of the presentation that you liked:nice general animation;analyze from different aspects,several different models.
+
+What were aspects of the presentations for which you had concerns or questions:Too much explaination on plots,maybe can be more focused on results.
 
 
